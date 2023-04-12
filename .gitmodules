@@ -1,0 +1,3 @@
+[submodule "my_plugins/tagbar"]
+	path = my_plugins/tagbar
+	url = https://github.com/preservim/tagbar.git
